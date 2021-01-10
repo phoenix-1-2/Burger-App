@@ -1,0 +1,8 @@
+.App{
+    width: 100%;
+}
+.card{
+    width: 50%;
+    margin: 10% auto;
+    padding: 3%;
+}
